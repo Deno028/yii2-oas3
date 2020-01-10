@@ -35,6 +35,5 @@
         "psr-4": {
             "genxoft\\swagger\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
