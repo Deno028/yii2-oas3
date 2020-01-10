@@ -20,7 +20,7 @@
         "php": ">=7.1",
         "yiisoft/yii2": "~2.0",
         "ext-json": "*",
-        "deno028/swagger-php": "*",
+        "deno028/swagger-php": "master@dev",
         "bower-asset/swagger-ui": "^3.20"
     },
     "license": "MIT",
