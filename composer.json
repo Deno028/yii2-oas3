@@ -1,13 +1,26 @@
 {
     "name": "genxoft/yii2-oas3",
     "description": "Yii2 Open Api Swagger 3 integration",
-    "keywords": ["open-api","swagger","rest", "restfull", "json", "yii2"],
+    "keywords": [
+        "open-api",
+        "swagger",
+        "rest",
+        "restfull",
+        "json",
+        "yii2"
+    ],
     "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Deno028/swagger-php.git"
+        }
+    ],
     "require": {
         "php": ">=7.1",
         "yiisoft/yii2": "~2.0",
         "ext-json": "*",
-        "zircote/swagger-php": "^3.0",
+        "Deno028/swagger-php": "*",
         "bower-asset/swagger-ui": "^3.20"
     },
     "license": "MIT",
