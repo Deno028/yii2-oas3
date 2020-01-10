@@ -12,7 +12,7 @@
     "type": "library",
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/deno028/swagger-php.git"
         }
     ],
