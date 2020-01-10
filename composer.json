@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Deno028/swagger-php.git"
+            "url": "https://github.com/deno028/swagger-php.git"
         }
     ],
     "require": {
