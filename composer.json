@@ -1,6 +1,6 @@
 {
-    "name": "genxoft/yii2-oas3",
-    "description": "Yii2 Open Api Swagger 3 integration",
+    "name": "deno028/yii2-oas3",
+    "description": "Yii2 Open Api Swagger 3 integration - add JWT",
     "keywords": [
         "open-api",
         "swagger",
@@ -20,15 +20,15 @@
         "php": ">=7.1",
         "yiisoft/yii2": "~2.0",
         "ext-json": "*",
-        "Deno028/swagger-php": "*",
+        "deno028/swagger-php": "*",
         "bower-asset/swagger-ui": "^3.20"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Simon Rodin",
-            "homepage": "http://rodin.red/",
-            "email": "master@genx.ru"
+            "name": "Thanh Lam",
+            "homepage": "https://zizi.one",
+            "email": "thanh@zizi.one"
         }
     ],
     "autoload": {
